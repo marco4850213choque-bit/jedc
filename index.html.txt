@@ -15,7 +15,7 @@ button { font-size: 20px; padding: 10px 20px; margin: 10px; border: none; border
 import { initializeApp } from "gstatic.com";  
 import { getDatabase, ref, onValue, set, runTransaction } from "gstatic.com"; 
 
-// !!! REEMPLAZA ESTO CON TUS DATOS DE FIREBASE !!!  
+olimpiadas jedc !!!  
 const firebaseConfig = {  
 apiKey: "TU\_API\_KEY",  
 authDomain: "TU\_firebaseapp.com",  
